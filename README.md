@@ -45,7 +45,7 @@ Key parameters include:
 - `data`: A data.frame (or list) with y (0/1) and dose.
 - `weight`: Numeric vector of case weights.
 - `theta`: Numeric(3) initial value of c(e0, emax, log(ed50)).
-- 
+  
 The result will contain the following values:
 - `par`:	the final fitted parameters of Emax model
 
