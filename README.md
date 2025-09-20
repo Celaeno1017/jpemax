@@ -22,7 +22,7 @@ devtools::install_github("Celaeno1017/jpemax")
 First, load the R package.
 
 ```r
-library(ememax)
+library(jpemax)
 ```
 
 To illustrate the main features of the R package `jpemax`, let's first generate some data. We have built in a few functions directly into the R package for this purpose.
