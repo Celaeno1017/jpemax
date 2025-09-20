@@ -1,0 +1,29 @@
+Package: jpemax
+Title: Estimation Utilities for Binary Emax Models (Firth and Cox–Snell)
+Version: 0.1.0
+Authors@R: 
+    person("Jiangshan", "Zhang", email = "jiszhang@ucdavis.edu", role = c("aut","cre"))
+Description: Implements Jeffrey-Penalized, Firth-score, and Cox–Snell bias-corrected estimators for binary Emax models.
+License: MIT + file LICENSE
+URL: https://github.com/celaeno1017/jpemax
+BugReports: https://github.com/celaeno1017/jpemax/issues
+Depends: 
+    R (>= 4.3.0)
+Imports:
+    DoseFinding,
+    brglm,
+    BB,
+    numDeriv,
+    maxLik,
+    formula.tools,
+    MASS,
+    clinDR,
+    stats
+Suggests:
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
