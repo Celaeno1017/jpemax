@@ -1,4 +1,4 @@
-#Jeffreys-Prior Penalized Binary Emax Model Package
+# Jeffreys-Prior Penalized Binary Emax Model Package
 
 In this document, we illustrate the main features of the `jpemax` R package through examples. Additional information on the statistical methodology and computational details are provided in the accompanying documentation and research articles.
 
