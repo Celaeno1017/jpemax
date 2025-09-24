@@ -6,7 +6,7 @@ In this document, we illustrate the main features of the `jpemax` R package thro
 
 The package applies methods introduced in the [paper](https://arxiv.org/abs/2509.18459):
 
-Zhang, J., Pradhan, V. and Zhao, Y., 2025. Evaluating Bias Reduction Methods in Binary Emax Model for Reliable Dose-Response Estimation.arXiv preprint arXiv:2509.18459.
+Zhang, J., Pradhan, V. and Zhao, Y., 2025. Evaluating Bias Reduction Methods in Binary Emax Model for Reliable Dose-Response Estimation. arXiv preprint arXiv:2509.18459.
 
 
 ## Install
